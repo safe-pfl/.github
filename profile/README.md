@@ -1,5 +1,4 @@
-# SAFE-PFL code base
-
+# SAFE-PFL
 SAFE-PFL is a framework for efficient and secure personalized federated learning (FL) based on the `SAFE-PFL: Efficient and Secure Personalized Federated Learning` paper.
 
 ## Research Focus
