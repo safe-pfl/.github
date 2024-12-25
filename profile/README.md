@@ -7,8 +7,9 @@ SAFE-PFL incorporates three innovative components: a secure clustering module us
 
 ## GitHub Repositories
 
-- [safe-pfl](https://github.com/safe-pfl/safe-pfl) package
-- [safe-pfl-distance](https://github.com/safe-pfl/distances) package
+- [safe-pfl](https://github.com/safe-pfl/safe-pfl) 
+- [safe-pfl-distance](https://github.com/safe-pfl/distances) _package_
+- [safe-pfl-distance](https://github.com/safe-pfl/safe-pfl-plotter) _package_
 - [safe-pfl examples](https://github.com/safe-pfl/examples)
 
 ## Members and Contacts
